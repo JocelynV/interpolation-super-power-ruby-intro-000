@@ -1,1 +1,5 @@
 # Write your #display_rainbow method here
+def #display_rainbow (colors)
+  puts #{colors}
+end
+colors = "red, green, violet, indigo, orange, blue, yellow" 
