@@ -2,4 +2,3 @@
 def #display_rainbow (colors)
   puts #{red, green, orange, indigo, blue, yellow, violet}
 end
-colors = "red, green, violet, indigo, orange, blue, yellow"
