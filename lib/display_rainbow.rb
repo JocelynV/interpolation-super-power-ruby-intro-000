@@ -1,5 +1,5 @@
 # Write your #display_rainbow method here
-def #display_rainbow ("red, orange, green, violet, indigo, blue, yellow")
-  puts #{colors}
+def #display_rainbow (colors)
+  puts #{red, green, orange, indigo, blue, yellow, violet}
 end
 colors = "red, green, violet, indigo, orange, blue, yellow"
